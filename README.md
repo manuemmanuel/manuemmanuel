@@ -1,19 +1,20 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋+Hi,+I’m+Manu+Emmanuel;@manuemmanuel)](https://git.io/typing-svg)
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hey there! 👋 I'm Manu Emmanuel
 
-<h6 align="left">Hello there! I'm Manu Emmanuel, a passionate Computer Science student. This is where I share my projects, ideas, and contributions. Feel free to explore, fork, and contribute to any of the repositories you find interesting.</h6>
+## About Me
+I'm a B.Tech Computer Science student passionate about coding and exploring the world of technology. Currently, I'm focusing on honing my skills in C programming and Python.
 
-###
+- 🌱 I’m currently learning C programming and Python.
+- 🔭 I’m interested in algorithms, data structures, and web development.
+- 📚 I love to read tech blogs and stay up-to-date with the latest advancements in the field.
+- 💬 Feel free to reach out to me for discussions on programming, tech trends, or anything else!
 
-<br clear="both">
+## Languages and Tools
+- Programming Languages: C, Python
+- Tools: Visual Studio Code, Git
+- Operating Systems: Windows, Linux
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manuemmanuel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=manuemmanuel&locale=en&mode=weekly&theme=chartreuse-dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manuemmanuel&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=12&theme=chartreuse-dark&hide_border=true" height="150" alt="languages graph"  />
-</div>
+## Connect with Me
+- LinkedIn: [Manu Emmanuel](https://www.linkedin.com/in/manu-emmanuel-a8b96527bl)
+- Email: manuemmanuel2026@cs.sjcetpalai.ac.in
 
-###
+Feel free to explore, fork, and contribute to any of the repositories you find interesting. 
