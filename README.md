@@ -4,7 +4,7 @@ I'm a B.Tech Computer Science student passionate about coding and exploring the 
 
 - 🌱 I’m currently learning C programming and Python.
 - 🔭 I’m interested in algorithms, data structures, and web development.
-- 📚 I love to read tech blogs and stay up-to-date with the latest advancements in the field.
+- 📚 I love to read and stay up-to-date with the latest advancements in the field.
 - 💬 Feel free to reach out to me for discussions on programming, tech trends, or anything else!
 
 ## Languages and Tools
