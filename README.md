@@ -1,6 +1,6 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+there!+👋;I'm+Manu+Emmanuel)](https://git.io/typing-svg)
 ## About Me
-I'm a B.Tech Computer Science student passionate about coding and exploring the world of technology. Currently, I'm focusing on honing my skills in C programming and Python.
+I'm a B.Tech Computer Science student passionate about coding and technology. Currently, I'm focusing on honing my skills in C programming and Python.
 
 - 🌱 I’m currently learning C programming and Python.
 - 🔭 I’m interested in algorithms, data structures, and web development.
