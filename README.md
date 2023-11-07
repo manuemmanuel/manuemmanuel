@@ -25,7 +25,7 @@ Feel free to explore, fork, and contribute to any of the repositories you find i
 </div>
 
 ###
-
+<br>
 <div align="center">
   <img src="https://profile-counter.glitch.me/manuemmanuel/count.svg?"  />
 </div>
