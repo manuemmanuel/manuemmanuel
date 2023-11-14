@@ -12,7 +12,7 @@ I'm a B.Tech Computer Science student passionate about coding and technology. Cu
 - 💬 Feel free to reach out to me for discussions on programming, tech trends, or anything else!
 
 ## Languages and Tools
-- Programming Languages: C, Python
+- Programming Languages: C, Python, Java
 - Tools: Visual Studio Code, Git
 - Operating Systems: Windows, Linux
 
