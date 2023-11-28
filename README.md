@@ -28,7 +28,9 @@ Feel free to explore, fork, and contribute to any of the repositories you find i
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manuemmanuel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=manuemmanuel&locale=en&mode=daily&theme=midnight-purple&hide_border=true&border_radius=5&date_format=j M[ Y]&order=3" height="150" alt="streak graph"  />
- 
+
+## Spotify
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1yx2a9qpor5lnp4ijppl2b4pf&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 </div>
 
 ###
