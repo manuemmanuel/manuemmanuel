@@ -11,6 +11,9 @@ I'm a B.Tech Computer Science student passionate about coding and technology. Cu
 - 📚 I love to read and stay up-to-date with the latest advancements in the field.
 - 💬 Feel free to reach out to me for discussions on programming, tech trends, or anything else!
 
+## Github
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manuemmanuel" alt="manuemmanuel" /></a> </p>
+
 ## Languages and Tools
 - Programming Languages: C, Python, Java
 - Tools: Visual Studio Code, Git
