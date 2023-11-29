@@ -13,7 +13,7 @@ I'm a B.Tech Computer Science student passionate about coding and technology. Cu
 
 ## Github
 <br>
-<p align="left"> <a href="https://github.com/manuemmanuel"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=nord" alt="manuemmanuel" /></a> </p>
+<p align="left"> <a href="https://github.com/manuemmanuel"><img src="https://github-profile-trophy.vercel.app/?username=manuemmanuel&theme=nord" alt="manuemmanuel" /></a> </p>
 
 ## Languages and Tools
 - Programming Languages: C, Python, Java
