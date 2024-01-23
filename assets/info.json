@@ -1,0 +1,34 @@
+{
+  "username": "manuemmanuel",
+  "email": "manuemmanuel2026@cs.sjcetpalai.ac.in",
+  "achievements": ["Quickdraw", "YOLO"],
+  "programmingLanguages": ["C", "Python", "Java"],
+  "tools": ["Visual Studio Code", "Git"],
+  "operatingSystems": ["Windows", "Linux"],
+  "repositories": [
+    {
+      "name": "Random-Word-Generator-App",
+      "description": "Flutter application that generates random word pairs.",
+      "language": "C++",
+      "contributions": 0,  // Replace with the actual number of contributions
+      "lastContribution": "2024-01-23"
+    },
+    {
+      "name": "Substation-Asset-Management",
+      "description": "Chatbot for Substation Asset Maintenance tasks.",
+      "language": "Python",
+      "contributions": 0,  // Replace with the actual number of contributions
+      "lastContribution": "2024-01-15"
+    },
+    // Add more repositories with similar structure
+  ],
+  "contributionSummary": {
+    "totalContributions": 485,
+    "lastYearContributions": 485,
+    "contributionGraph": [
+      // Graph data for contributions, you can represent it in any format you need
+      // For example, you can use an array for each month with the number of contributions
+      // [["Jan", 0], ["Feb", 0], ["Mar", 0], ...]
+    ]
+  }
+}
