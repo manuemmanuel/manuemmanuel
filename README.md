@@ -4,7 +4,7 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+there!+👋;I'm+Manu+Emmanuel)](https://git.io/typing-svg)
 
 ## About Me
-![GitHub Profile Card](https://github.com/manuemmanuel/manuemmanuel/blob/main/assets/gitcard.svg)
+![GitHub Profile Card](https://github.com/manuemmanuel/manuemmanuel/blob/main/assets/githubcard.svg)
 
 I'm a B.Tech Computer Science student passionate about coding and technology. Currently, I'm focusing on honing my skills in C programming and Python
 
