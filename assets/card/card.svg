@@ -1,0 +1,63 @@
+<svg width="400" height="120" xmlns="http://www.w3.org/2000/svg">
+    <style>
+        @keyframes loading {
+            0% {
+                opacity: 0.3;
+            }
+            50% {
+                opacity: 1;
+            }
+            100% {
+                opacity: 0.3;
+            }
+        }
+
+        .loading-text {
+            animation: loading 1.5s infinite;
+        }
+
+        .loading-image {
+            animation: loading 1.5s infinite;
+        }
+    </style>
+
+    <rect width="100%" height="100%" fill="#000000" rx="10" ry="10"/>
+
+    <image id="profile-image" x="20" y="30" width="60" height="60" rx="30" ry="30" class="loading-image"/>
+    <text id="username" x="90" y="40" font-size="16" fill="#0366d6" font-weight="bold" font-family="Consolas, monospace" class="loading-text">Loading...</text>
+    <text id="followers" x="90" y="60" font-size="12" fill="#666" font-family="Consolas, monospace" class="loading-text">Followers: Loading...</text>
+    <text id="repositories" x="90" y="80" font-size="12" fill="#0366d6" font-family="Consolas, monospace" class="loading-text">Repositories: Loading...</text>
+
+    <script type="text/javascript">
+        function updateSVG() {
+            // Simulating API response with hardcoded data
+            const data = {
+                avatar_url: 'https://avatars.githubusercontent.com/u/127134568?v=4',
+                login: 'manuemmanuel',
+                followers: 27,
+                public_repos: 17
+            };
+
+            const profileImage = document.getElementById('profile-image');
+            profileImage.setAttribute('href', data.avatar_url);
+            profileImage.setAttribute('rx', '30'); // Add border radius
+            profileImage.setAttribute('ry', '30');
+            profileImage.classList.remove('loading-image'); // Remove loading animation class
+
+            document.getElementById('username').textContent = data.login;
+            document.getElementById('followers').textContent = 'Followers: ' + data.followers;
+            document.getElementById('repositories').textContent = 'Repositories: ' + data.public_repos;
+
+            // Remove loading animation class from text elements
+            document.getElementById('username').classList.remove('loading-text');
+            document.getElementById('followers').classList.remove('loading-text');
+            document.getElementById('repositories').classList.remove('loading-text');
+        }
+
+        // Call the function initially
+        updateSVG();
+
+        // Set up a timer to update the SVG content periodically (every 15 minutes in this example)
+        setInterval(updateSVG, 900000); // 15 minutes = 900,000 milliseconds
+    </script>
+</svg>
