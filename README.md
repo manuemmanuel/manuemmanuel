@@ -2,7 +2,7 @@
 
 
 # [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+there!+👋;I'm+Manu+Emmanuel)](https://git.io/typing-svg)
- <img width="495px" src="https://github-readme-activity-graph.vercel.app/graph?username=manuemmanuel&theme=react-dark" alt="manuemmanuel"/>
+ <img width="868px" src="https://github-readme-activity-graph.vercel.app/graph?username=manuemmanuel&theme=react-dark" alt="manuemmanuel"/>
 
 ## About Me
 
