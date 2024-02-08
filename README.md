@@ -39,8 +39,8 @@ Feel free to explore, fork, and contribute to any of the repositories you find i
 </div>
 
 ###
-<br>
-<hr>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 <div align="center">
   <img src="https://profile-counter.glitch.me/manuemmanuel/count.svg?"  />
 </div>
