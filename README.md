@@ -21,7 +21,7 @@ I'm a B.Tech Computer Science student passionate about coding and technology. Cu
     <img src="https://github-stats-alpha.vercel.app/api?username=manuemmanuel&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
 <br>
-<a href="https://github.com/manuemmanuel?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-See%20My%20Repositories%20Here-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 <br>
 <p align="left"> <a href="https://github.com/manuemmanuel"><img src="https://github-profile-trophy.vercel.app/?username=manuemmanuel&theme=nord" alt="manuemmanuel" /></a> </p>
 
@@ -35,6 +35,10 @@ I'm a B.Tech Computer Science student passionate about coding and technology. Cu
 - Email: manuemmanuel2026@cs.sjcetpalai.ac.in
 
 Feel free to explore, fork, and contribute to any of the repositories you find interesting. 
+<br>
+<br>
+<a href="https://github.com/manuemmanuel?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-See%20My%20Repositories%20Here-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+<br>
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manuemmanuel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=true&order=2" height="150" alt="languages graph"  />
