@@ -2,6 +2,7 @@
 
 
 # [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+there!+👋;I'm+Manu+Emmanuel)](https://git.io/typing-svg)
+
  <img width="868px" src="https://github-readme-activity-graph.vercel.app/graph?username=manuemmanuel&theme=react-dark" alt="manuemmanuel"/>
 
 ## About Me
@@ -14,8 +15,11 @@ I'm a B.Tech Computer Science student passionate about coding and technology. Cu
 - 💬 Feel free to reach out to me for discussions on programming, tech trends, or anything else!
 
 ## Github
-![GitHub followers](https://img.shields.io/github/followers/manuemmanuel?style=social&link=https%253A%252F%252Fgithub.com%252Fmanuemmanuel)
+<!--![GitHub followers](https://img.shields.io/github/followers/manuemmanuel?style=social&link=https%253A%252F%252Fgithub.com%252Fmanuemmanuel)-->
 <br>
+<a href="https://github.com/manuemmanuel">
+    <img src="https://github-stats-alpha.vercel.app/api?username=manuemmanuel&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+</a>
 <br>
 <a href="https://github.com/manuemmanuel?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-See%20My%20Repositories%20Here-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 <br>
