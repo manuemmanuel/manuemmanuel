@@ -14,15 +14,14 @@ I'm a B.Tech Computer Science student passionate about coding and technology. Cu
 - 📚 I love to read and stay up-to-date with the latest advancements in the field.
 - 💬 Feel free to reach out to me for discussions on programming, tech trends, or anything else!
 
-## Github
+## Profile
 <!--![GitHub followers](https://img.shields.io/github/followers/manuemmanuel?style=social&link=https%253A%252F%252Fgithub.com%252Fmanuemmanuel)-->
 <br>
 <a href="https://github.com/manuemmanuel">
     <img src="https://github-stats-alpha.vercel.app/api?username=manuemmanuel&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-<br>
+
+## Github Trophies
 <p align="left"> <a href="https://github.com/manuemmanuel"><img src="https://github-profile-trophy.vercel.app/?username=manuemmanuel&theme=nord&no-bg=true&no-frame=true&row=3&column=3" alt="manuemmanuel" /></a> </p>
 <br>
 
