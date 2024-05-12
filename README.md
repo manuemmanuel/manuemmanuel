@@ -2,8 +2,12 @@
 
 
 # [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+there!+👋;I'm+Manu+Emmanuel)](https://git.io/typing-svg)
+<!--![GitHub followers](https://img.shields.io/github/followers/manuemmanuel?style=social&link=https%253A%252F%252Fgithub.com%252Fmanuemmanuel)-->
+<br>
+<a href="https://github.com/manuemmanuel">
+    <img src="https://github-stats-alpha.vercel.app/api?username=manuemmanuel&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+</a>
 
- <img width="868px" src="https://github-readme-activity-graph.vercel.app/graph?username=manuemmanuel&theme=react-dark" alt="manuemmanuel"/>
 
 ## About Me
 
@@ -14,15 +18,8 @@ I'm a B.Tech Computer Science student passionate about coding and technology. Cu
 - 📚 I love to read and stay up-to-date with the latest advancements in the field.
 - 💬 Feel free to reach out to me for discussions on programming, tech trends, or anything else!
 
-## Profile
-<!--![GitHub followers](https://img.shields.io/github/followers/manuemmanuel?style=social&link=https%253A%252F%252Fgithub.com%252Fmanuemmanuel)-->
-<br>
-<a href="https://github.com/manuemmanuel">
-    <img src="https://github-stats-alpha.vercel.app/api?username=manuemmanuel&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
-</a>
-
 ## Github Trophies
-<p align="left"> <a href="https://github.com/manuemmanuel"><img src="https://github-profile-trophy.vercel.app/?username=manuemmanuel&theme=nord&no-bg=true&no-frame=true&row=3&column=3" alt="manuemmanuel" /></a> </p>
+<p align="left"> <a href="https://github.com/manuemmanuel"><img src="https://github-profile-trophy.vercel.app/?username=manuemmanuel&theme=nord&no-bg=true&no-frame=true&row=2&column=4" alt="manuemmanuel" /></a> </p>
 <br>
 
 ## Languages and Tools
@@ -44,6 +41,8 @@ Feel free to explore, fork, and contribute to any of the repositories you find i
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manuemmanuel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=manuemmanuel&locale=en&mode=daily&theme=midnight-purple&hide_border=true&border_radius=5&date_format=j M[ Y]&order=3" height="150" alt="streak graph"  />
  
+ <br>
+  <img width="868px" src="https://github-readme-activity-graph.vercel.app/graph?username=manuemmanuel&theme=react-dark" alt="manuemmanuel"/>
 
 </div>
 
