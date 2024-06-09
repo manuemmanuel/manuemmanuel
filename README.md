@@ -43,7 +43,8 @@ Feel free to explore, fork, and contribute to any of the repositories you find i
  
 ## Contribution
 
-  <img width="868px" src="https://github-readme-activity-graph.vercel.app/graph?username=manuemmanuel&theme=react-dark" alt="manuemmanuel"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manuemmanuel&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+
 
 </div>
 
