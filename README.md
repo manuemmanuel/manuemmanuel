@@ -19,21 +19,6 @@ I'm a B.Tech Computer Science student passionate about coding and technology.
 <p align="left"> <a href="https://github.com/manuemmanuel"><img src="https://github-profile-trophy.vercel.app/?username=manuemmanuel&theme=nord&no-bg=true&no-frame=true&row=2&column=4" alt="manuemmanuel" /></a> </p>
 <br>
 
-## Languages and Tools
-- Programming Languages: C, Python, Java
-- Tools: Visual Studio Code, Git
-- Operating Systems: Windows, Linux
-
-## Connect with Me
-- LinkedIn: [Manu Emmanuel](https://www.linkedin.com/in/manu-emmanuel-a8b96527bl)
-- Email: manuemmanuel2026@cs.sjcetpalai.ac.in
-
-Feel free to explore, fork, and contribute to any of the repositories you find interesting. 
-<br>
-<br>
-<a href="https://github.com/manuemmanuel?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-See%20My%20Repositories%20Here-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
-<br>
-
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manuemmanuel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=manuemmanuel&locale=en&mode=daily&theme=midnight-purple&hide_border=true&border_radius=5&date_format=j M[ Y]&order=3" height="150" alt="streak graph"  />
